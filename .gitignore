@@ -1,0 +1,11 @@
+```gitignore
+# Keep email credentials private
+.env.php
+
+# Local dependencies and temporary files
+/vendor/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+```
